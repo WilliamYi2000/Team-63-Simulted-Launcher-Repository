@@ -1,20 +1,13 @@
 # Team-63-Simulted-Launcher-Repository
 ## Radio Subsystem Readme 
 * [General info](#general-info)
-* [File description](#file-description)
 * [System Overview](#System-Overview)
+* [File description](#file-description)
 
 ## General info
 The simulated rocket launcher is intended to be used as a training device for instructing soldiers on the proper use of an electronic targeting system. The system will consist of two separate parts, a launcher and a target, each using a microcontroller and suite of sensors to send and receive data. These microcontrollers will also control peripheral systems, such as a user interface and feedback system on the launcher side, so as to notify the user of successful target acquisition, and an alarm system in the target to notify bystanders of a successful lock. The end product is intended to be used as a training device by soldiers to practice the proper use of a rocket launcher and assisted targeting system. As a device made specifically for training on targeting systems, the launcher will not fire a projectile. To test this device, successful lock will be made between the launcher and target at various ranges and with various settings of the variable timing circuit.
 ![image](https://github.com/WilliamYi2000/Team-63-Simulted-Launcher-Repository/blob/8612d704458e12008d0e7789cf33078425dce8ba/Project%20Diagrams/project%20overview.PNG)
-## File description
-### I2C Module
-### LORA_Module
-### Launcher System Code
-### Project Diagrams
-### RFM9x_HelloWorld_Tx
-### Screen_scroll_test
-### UIcontrolsV1
+
 ## System Overview
 The complete simulated rocket launcher system is divided into two main parts: the launcher and the target. Each system will contain a microcontroller serving to control the sensors and systems contained within.
 
@@ -26,3 +19,11 @@ Both the launcher and target will require internal power sources and will need t
 
 ![image](https://github.com/WilliamYi2000/Team-63-Simulted-Launcher-Repository/blob/87074ff68495d6a62d8c03982d004c57835d5e32/Project%20Diagrams/system%20overview.PNG)
 
+## File description
+### I2C Module
+### LORA_Module
+### Launcher System Code
+### Project Diagrams
+### RFM9x_HelloWorld_Tx
+### Screen_scroll_test
+### UIcontrolsV1

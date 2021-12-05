@@ -23,11 +23,13 @@ Both the launcher and target will require internal power sources and will need t
 ### I2C Module
 Folder contains code that runs on the I2C LoRa RFM9x modules. 
 *Tx_test* runs on the launcher to transmit a signal to the target. A more in depth description and flowchart is included in the folder readme file
+
 *RX_Two_Modules* controls two radio modules on the target module and includes the hit detection algorithm. A more in depth flowchart and descrition is included in the folder readme file
 ### LORA_Module
 Legacy code that was previously used to control the REYAX RYLR896 Lora radio system. This hardware is currently not in use with our system any longer.
 ### Launcher System Code
 *CutDown System Test*
+
 *LED_Radio_Test/LED_Radio_Test*
 ### Project Diagrams
 ### RFM9x_HelloWorld_Tx

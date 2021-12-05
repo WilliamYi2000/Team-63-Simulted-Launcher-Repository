@@ -29,4 +29,5 @@ The radio system is responsible for sending and receiving signals over 500 meter
 - If the difference is greater than the precision value, a miss is registered
 ## Setup 
 You can run this project using arduino
+
 ![image](https://github.com/WilliamYi2000/Team-63-Simulted-Launcher-Repository/blob/583f2f99e74ae1f22255bd153641ea65862e1384/I2C%20Module/LoRa%20pins.PNG)

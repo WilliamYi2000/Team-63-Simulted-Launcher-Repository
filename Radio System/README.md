@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+The radio system is responsible for sending and receiving signals over 500 meters of distance and determining if the launcher is on target. Included in this folder is the code to control the radio system. The 
 	
 ## File description
 Project is created with:

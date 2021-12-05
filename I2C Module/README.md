@@ -28,7 +28,7 @@ The radio system is responsible for sending and receiving signals over 500 meter
 - Hit detection will calculate the difference between the two radio received RSSI values and compare it to the precision value of 4
 - If the difference is less than the precision value, a hit is registered
 - If the difference is greater than the precision value, a miss is registered
-![image]
+![image](https://github.com/WilliamYi2000/Team-63-Simulted-Launcher-Repository/blob/3905327f9435ed0eaaa10a8e208a253936b562c4/I2C%20Module/Radio%20Flowcharts%20and%20Tables/Radio%20Receiver%20Flow%20chart.png)
 ## Setup 
 You can run this project using arduino
 

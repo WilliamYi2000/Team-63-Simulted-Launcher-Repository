@@ -32,4 +32,4 @@ The radio system is responsible for sending and receiving signals over 500 meter
 ## Setup 
 You can run this project using arduino
 
-![image](https://github.com/WilliamYi2000/Team-63-Simulted-Launcher-Repository/blob/583f2f99e74ae1f22255bd153641ea65862e1384/I2C%20Module/LoRa%20pins.PNG)
+![image](https://github.com/WilliamYi2000/Team-63-Simulted-Launcher-Repository/blob/0c6f1211317badffaf91b3de8e55cc96fa74cf83/I2C%20Module/Radio%20Flowcharts%20and%20Tables/LoRa%20pins.PNG)

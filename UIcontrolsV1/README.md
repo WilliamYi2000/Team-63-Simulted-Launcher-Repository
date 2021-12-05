@@ -21,5 +21,6 @@ User Interface Components:
 - *Potentiometer*  indicated by the user that sets the timing of the lock on
 
 ## Setup 
-You can run this project using arduino
+You can run this project using arduino or custom PCB with nessecery MCU using the Arduino IDE software
+
 

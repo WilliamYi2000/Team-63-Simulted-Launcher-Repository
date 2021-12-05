@@ -28,10 +28,12 @@ Folder contains code that runs on the I2C LoRa RFM9x modules.
 ### LORA_Module
 Legacy code that was previously used to control the REYAX RYLR896 Lora radio system. This hardware is currently not in use with our system any longer.
 ### Launcher System Code
-*CutDown System Test*
-
-*LED_Radio_Test/LED_Radio_Test*
+*CutDown System Test* This code represents the integration of the Radio transmission and UI control code. This code was run during the demo to show each subsystem working together
 ### Project Diagrams
+Pictures of our system diagrams
 ### RFM9x_HelloWorld_Tx
+Example Helloworld folder used to test transceiver capability
 ### Screen_scroll_test
+Helloworld for the Printed Circuit Board to demonstrate that the control PCB is operational and code runs on the microcontroller. Turns on on-board display and scrolls text across it. 
 ### UIcontrolsV1
+Folder for User interface code. A more in depth description and flowchart is included in the folder readme file

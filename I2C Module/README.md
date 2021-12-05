@@ -16,7 +16,7 @@ The radio system is responsible for sending and receiving signals over 500 meter
 - After sending a signal, microcontroller will notify the user and the receiver waits for a response from the target module. 
 - If no response was received after a short period of time, it will notify the user. 
 - If a response was received, it will tell the user the message and the signal's RSSI value. 
-![image]
+![image](https://github.com/WilliamYi2000/Team-63-Simulted-Launcher-Repository/blob/89d4de68d7b024070be8d14b350821cecb62b5a0/I2C%20Module/Radio%20Flowcharts%20and%20Tables/Radio%20Transmitter%20Flow%20chart.png)
 ### RX_Two_Modules
 - Controls two radio module on the target and outputs the received message, RSSI values, and if the launcher is a hit or miss to the serial monitor
 - The file defines the first I2C lora's reset pin to PCB PIN 9, Chip Select pin to PCB PIN 10, and interrupt to PCB PIN 3. 

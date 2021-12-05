@@ -6,6 +6,8 @@
 ## General info
 This folder contains the UI control code to be able to inform the user and audience on the current status of the subsystem. 
 The code will handle the signal processing from the user interface components and the extract data from the user input components.
+![image](https://user-images.githubusercontent.com/95556261/144734465-279165c5-c4a5-4f2c-9b76-5ec9d089056a.png)
+
 	
 ## File description
 ### UIcontrols
@@ -17,6 +19,5 @@ User Interface Components:
 
 ## Setup 
 You can run this project using arduino or custom PCB with nessecery MCU using the Arduino IDE software
-
-![image](https://user-images.githubusercontent.com/95556261/144734442-8f487e5a-c468-443c-878e-c1a7d0a30ff0.png)
+![image](https://user-images.githubusercontent.com/95556261/144734493-f6b8caf3-2d74-4a28-898b-98f389f5a80e.png)
 

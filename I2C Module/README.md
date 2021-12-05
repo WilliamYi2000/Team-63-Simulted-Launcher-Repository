@@ -5,7 +5,7 @@
 
 ## General info
 The radio system is responsible for sending and receiving signals over 500 meters of distance and determining if the launcher is on target. Included in this folder is the TX_Test file and RX_Two_Modules.
-	
+![image]
 ## File description
 ### TX_Test
 - Controls the radio module on the launcher and outputs the received messages to a connected adafruit screen for user display. 
@@ -16,6 +16,7 @@ The radio system is responsible for sending and receiving signals over 500 meter
 - After sending a signal, microcontroller will notify the user and the receiver waits for a response from the target module. 
 - If no response was received after a short period of time, it will notify the user. 
 - If a response was received, it will tell the user the message and the signal's RSSI value. 
+![image]
 ### RX_Two_Modules
 - Controls two radio module on the target and outputs the received message, RSSI values, and if the launcher is a hit or miss to the serial monitor
 - The file defines the first I2C lora's reset pin to PCB PIN 9, Chip Select pin to PCB PIN 10, and interrupt to PCB PIN 3. 
@@ -27,6 +28,7 @@ The radio system is responsible for sending and receiving signals over 500 meter
 - Hit detection will calculate the difference between the two radio received RSSI values and compare it to the precision value of 4
 - If the difference is less than the precision value, a hit is registered
 - If the difference is greater than the precision value, a miss is registered
+![image]
 ## Setup 
 You can run this project using arduino
 

@@ -18,4 +18,5 @@ User Interface Components:
 ## Setup 
 You can run this project using arduino or custom PCB with nessecery MCU using the Arduino IDE software
 
+![image](https://user-images.githubusercontent.com/95556261/144734442-8f487e5a-c468-443c-878e-c1a7d0a30ff0.png)
 

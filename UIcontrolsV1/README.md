@@ -15,10 +15,10 @@ The code will handle the signal processing from the user interface components an
 ## File description
 ### UIcontrols
 User Interface Components:
-- LED Strip  give visual cues on the timing and target aquisition of the system
-- Speaker  give audio cues for build up on the locking procedure and will ring a melody when a successful hit is shown
-- Button  will act as the trigger in order to begin the target acquisition phase
-- Potentiometer  indicated by the user that sets the timing of the lock on
+- *LED Strip*  give visual cues on the timing and target aquisition of the system
+- *Speaker*  give audio cues for build up on the locking procedure and will ring a melody when a successful hit is shown
+- *Button*  will act as the trigger in order to begin the target acquisition phase
+- *Potentiometer*  indicated by the user that sets the timing of the lock on
 
 ## Setup 
 You can run this project using arduino

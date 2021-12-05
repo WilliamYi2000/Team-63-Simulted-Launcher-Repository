@@ -5,7 +5,7 @@
 
 ## General info
 The radio system is responsible for sending and receiving signals over 500 meters of distance and determining if the launcher is on target. Included in this folder is the TX_Test file and RX_Two_Modules.
-![image]
+![image](https://github.com/WilliamYi2000/Team-63-Simulted-Launcher-Repository/blob/02726f9fbe4570709430e2493525529626219fed/I2C%20Module/Radio%20Flowcharts%20and%20Tables/Radio%20overall.PNG)
 ## File description
 ### TX_Test
 - Controls the radio module on the launcher and outputs the received messages to a connected adafruit screen for user display. 

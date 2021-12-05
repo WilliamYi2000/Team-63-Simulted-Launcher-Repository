@@ -4,19 +4,12 @@
 * [Setup](#setup)
 
 ## General info
-The radio system is responsible for sending and receiving signals over 500 meters of distance and determining if the launcher is on target. Included in this folder is the code to control the radio system. The 
+The radio system is responsible for sending and receiving signals over 500 meters of distance and determining if the launcher is on target. Included in this folder is the TX_Test file to control the launcher radio module and the RX_Two_Modules that controls the target radio modules.
 	
 ## File description
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+#TX_Test
+#RX_Two_Modules
 	
-## Setup
-To run this project, install it locally using npm:
+## Setup 
+You can run this project using arduino
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```

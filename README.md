@@ -1,6 +1,6 @@
 # Team-63-Simulted-Launcher-Repository
-# Authors: Christoph Bauman, Dalton Ferguson, Mark Tressler, and William Yi
-# 2021 - 2022 Texas A&M Senior Design
+## Authors: Christoph Bauman, Dalton Ferguson, Mark Tressler, and William Yi
+## 2021 - 2022 Texas A&M Senior Design
 
 ## Radio Subsystem Readme 
 * [General info](#general-info)

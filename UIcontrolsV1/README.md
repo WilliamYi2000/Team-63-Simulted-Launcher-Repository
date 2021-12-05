@@ -11,6 +11,7 @@ The code will handle the signal processing from the user interface components an
 	
 ## File description
 ### UIcontrols
+
 User Interface Components:
 - *LED Strip*  give visual cues on the timing and target aquisition of the system
 - *Speaker*  give audio cues for build up on the locking procedure and will ring a melody when a successful hit is shown
